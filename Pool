@@ -2,7 +2,8 @@
 "name": "VivrePool",
 "description": "paper of life",
 "ticker": "VKP",
-"homepage":"https://vivrekado.de"
+"homepage":"https://vivrekado.de",
+"extended":"https://github.com/vivre-cardano/Vivre/blob/69885daf212d69261b32b815e673a86dffac6204/extended-pool-info"
 }
 
 
