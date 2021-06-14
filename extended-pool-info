@@ -1,14 +1,48 @@
+
 {
-    "info": {
-             "social": {
+       "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+        "location": "Germany, Frankfurt",
+        "social": {
             "twitter_handle": "vivrekado",
-            "telegram_handle": "",
+            "telegram_handle": "vivrekado",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
             "discord_handle": "",
             "github_handle": ""
+        },
+        "company": {
+            "name": "Vivrekado",
+            "addr": "-",
+            "city": "Frankfurt",
+            "country": "Germany",
+            "company_id": "-",
+            "vat_id": "-"
+        },
+        "about": {
+            "me": "...",
+            "server": "..",
+            "company": "..."
+        }
+    },
+    "my-pool-ids": {
+        "0": "8a56a8108060daf31cb7c121660a2d26c02d1bac06aba32904f17e0d"
+    },
+    "when-satured-then-recommend": {
+        "0": "8a56a8108060daf31cb7c121660a2d26c02d1bac06aba32904f17e0d"
+      },
+    "telegram-admin-handle": {
+        "0": ""
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "relay 1 eu",
+                "type": "relay",
+                "key": "example_get_own_on_adapools.org/connect"
+            }
         }
     }
-    
 }
