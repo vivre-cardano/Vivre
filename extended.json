@@ -32,5 +32,32 @@
     },
     "my-pool-ids": {
         "0": "8a56a8108060daf31cb7c121660a2d26c02d1bac06aba32904f17e0d"        
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": "your_tg_handle"
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "relay 1 eu",
+                "type": "relay",
+                "key": "example_get_own_on_adapools.org/connect"
+            },
+            "1": {
+                "name": "relay 2 usa",
+                "type": "relay",
+                "key": "example_get_own_on_adapools.org/connect"
+            },
+            "2": {
+                "name": "block producer home",
+                "type": "bp",
+                "key": "example_get_own_on_adapools.org/connect"
+            }
+        }
     }
+
 }
