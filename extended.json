@@ -1,17 +1,14 @@
 {
     
     "info": {
-        "url_png_icon_64x64": "https://www.dropbox.com/s/5q1vgcgpl13a7vu/ICON.png?dl=0",
-        "url_png_logo": "https://www.dropbox.com/s/ru7xhk06iij6zqj/LOGO.png?dl=0",
+        "url_png_icon_64x64": "https://www.dropbox.com/s/5q1vgcgpl13a7vu/ICON.png",
+        "url_png_logo": "https://www.dropbox.com/s/ru7xhk06iij6zqj/LOGO.png",
         "location": "Frankfurt, Germany",
         "social": {
-            "twitter_handle": "vivrekado",
-            "facebook_handle": "people/Vivrekado-Cardano-Stakepool/100068707854432",
-            "youtube_handle": "UC2WWAkwbEeQ7fFQO5MtNydg"
-
-        }
+            "twitter_handle": "vivrekado"      
+          }
         
     } 
-  
- 
+   
 }
+
