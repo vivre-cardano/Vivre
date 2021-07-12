@@ -1,4 +1,8 @@
 {
+    "itn": {
+        "owner": "",
+        "witness": ""
+      },
     "info": {
         "url_png_icon_64x64": "https://www.dropbox.com/s/5q1vgcgpl13a7vu/ICON.png?dl=0",
         "url_png_logo": "https://www.dropbox.com/s/ru7xhk06iij6zqj/LOGO.png?dl=0",
@@ -27,11 +31,6 @@
         }
     },
     "my-pool-ids": {
-        "0": "8a56a8108060daf31cb7c121660a2d26c02d1bac06aba32904f17e0d",
-        "1": ""
-    },
-    "when-satured-then-recommend": {
-        "0": "",
-        "1": ""
+        "0": "8a56a8108060daf31cb7c121660a2d26c02d1bac06aba32904f17e0d"        
     }
 }
