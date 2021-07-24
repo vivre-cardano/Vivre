@@ -4,14 +4,8 @@
         "url_png_logo": "http://vivrekado.info/LOGO.png",
         "location": "Frankfurt, Germany",
         "social": {
-            "twitter_handle": "vivrekado",
-            "telegram_handle": "",
-            "facebook_handle": "people/Vivrekado-Cardano-Stakepool/100068707854432",
-            "youtube_handle": "UC2WWAkwbEeQ7fFQO5MtNydg",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": ""
-        },
+            "twitter_handle": "vivrekado"
+                    },
         "company": {
             "name": "",
             "addr": "",
